@@ -7,11 +7,11 @@ plate_width=29.3;
 contact_hole_radius=5;
 contact_hole_distance=2;
 
-locator_width=3;
-locator_length=10;
+locator_width=4;
+locator_length=11;
 locator_height=5;
-locator_rotation=25;
-locator_distance=18;
+locator_rotation=-25;
+locator_distance=19;
 
 translate([corner_radius,corner_radius,0]) difference() {
     union() {
@@ -21,12 +21,16 @@ translate([corner_radius,corner_radius,0]) difference() {
         }
         contact_hole_color(plate_length/2, contact_hole_distance + contact_hole_radius);
         contact_hole_color(plate_length/2, plate_width - contact_hole_distance - contact_hole_radius);
-        contact_hole_color(contact_hole_distance + contact_hole_radius, plate_width - contact_hole_distance - contact_hole_radius);
+        contact_hole_color(contact_hole_distance + contact_hole_radius, contact_hole_distance + contact_hole_radius);
     }
-    contact_hole(contact_hole_distance + contact_hole_radius, contact_hole_distance + contact_hole_radius);
+    contact_hole(contact_hole_distance + contact_hole_radius, plate_width - contact_hole_distance - contact_hole_radius);
     contact_hole(plate_length - contact_hole_distance - contact_hole_radius, plate_width - contact_hole_distance - contact_hole_radius);
     contact_hole(plate_length - contact_hole_distance - contact_hole_radius, contact_hole_distance + contact_hole_radius);
-    translate([locator_distance-corner_radius, plate_width/2-corner_radius, -1]) rotate([0,0,locator_rotation]) translate([0,-locator_length/2,0]) cube([locator_width,locator_length,locator_height]);
+
+    translate([locator_distance,plate_width/2,0])
+    translate([-corner_radius,-corner_radius,0])
+    rotate([0,0,locator_rotation])
+    cube([locator_width,locator_length,locator_height], center=true);
 }
 
 module contact_hole(x, y) {
