@@ -7,6 +7,8 @@ plate_width=29.3;
 contact_hole_radius=5;
 contact_hole_distance=2;
 
+pillar_hole_radius=3;
+
 translate([corner_radius,corner_radius,0]) difference() {
     minkowski() {
         cube([plate_length-2 * corner_radius, plate_width-2 * corner_radius, height/2]);
@@ -15,6 +17,10 @@ translate([corner_radius,corner_radius,0]) difference() {
     contact_hole(contact_hole_distance + contact_hole_radius, contact_hole_distance + contact_hole_radius);
     contact_hole(plate_length - contact_hole_distance - contact_hole_radius, plate_width - contact_hole_distance - contact_hole_radius);
     contact_hole(plate_length - contact_hole_distance - contact_hole_radius, contact_hole_distance + contact_hole_radius);
+    translate([-corner_radius,-corner_radius,0]) union() {
+        pillar(plate_length/3);
+        pillar(plate_length*2/3);
+    }
 }
 
 module contact_hole(x, y) {
@@ -26,4 +32,10 @@ locator_length=10;
 locator_height=5;
 locator_rotation=25;
 locator_distance=18;
-#translate([locator_distance, plate_width/2, 0]) rotate([0,0,locator_rotation]) translate([0,-locator_length/2,0]) cube([locator_width,locator_length,locator_height]);
+translate([locator_distance, plate_width/2, 0]) rotate([0,0,locator_rotation]) translate([0,-locator_length/2,0]) cube([locator_width,locator_length,locator_height]);
+
+
+module pillar(x) {
+    translate([x, plate_width/2, -5]) cylinder(h=10, r=pillar_hole_radius);
+}
+
