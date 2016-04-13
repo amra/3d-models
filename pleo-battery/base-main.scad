@@ -1,17 +1,17 @@
 $fn=64;
 corner_radius=5;
-plate_height=0.3;
+plate_height=1;
 plate_length=44;
 plate_width=29.3;
 
 contact_hole_radius=5;
 contact_hole_distance=2;
 
-locator_width=4;
-locator_length=11;
+locator_width=5;
+locator_length=12;
 locator_height=5;
 locator_rotation=-25;
-locator_distance=19;
+locator_distance=19.5;
 
 translate([corner_radius,corner_radius,0]) difference() {
     union() {
