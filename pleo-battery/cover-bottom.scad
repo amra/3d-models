@@ -14,6 +14,10 @@ pillar_mount_height=0.5;
 rotator_mount_diameter=20;
 rotator_mount_thickness=1;
 rotator_mount_height=1;
+rotator_mount_inner=4
+
+center_x=plate_length/2;
+center_y=plate_width/2;
 
 translate([corner_radius,corner_radius,0]) difference() {
     minkowski() {
@@ -27,7 +31,7 @@ translate([corner_radius,corner_radius,0]) difference() {
     //side entrance
     translate([-corner_radius,-corner_radius,0]) union() {
         translate([5,-1,plate_height]) cube([plate_length/2,10,height]);
-        translate([plate_length/2-5,plate_width+1-10,plate_height]) cube([plate_length/2,10,height]);
+        translate([center_x-5,plate_width+1-10,plate_height]) cube([plate_length/2,10,height]);
     }
     translate([-corner_radius,-corner_radius,0]) union() {
         pillar_hole(plate_length/3);
@@ -35,15 +39,20 @@ translate([corner_radius,corner_radius,0]) difference() {
     }
 }
 
-//rotator_mount
-translate([plate_length/2,plate_width/2,plate_height])  cylinder(d=4, h=rotator_mount_height);
+//rotator inner mount
+translate([center_x,center_y,plate_height])  cylinder(d=rotator_mount_inner, h=rotator_mount_height);
 
+//rotator outer mount
 difference() {
     union() {
         translate([8,15,plate_height]) cube([10,10,rotator_mount_height]);
         translate([26,5,plate_height]) cube([10,10,rotator_mount_height]);
     }
-    translate([plate_length/2,plate_width/2,plate_height-1]) cylinder(d=rotator_mount_diameter, h=rotator_mount_height+2);
+    translate([center_x,center_y,plate_height-1]) cylinder(d=rotator_mount_diameter, h=rotator_mount_height+2);
+    translate([center_x,center_y,plate_height-1]) difference() {
+        cylinder(d=100, h=rotator_mount_height+2);
+        cylinder(d=rotator_mount_diameter+3, h=rotator_mount_height+2);
+    }
 }
 
 module pillar_hole(x) {
