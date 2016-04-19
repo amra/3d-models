@@ -14,7 +14,7 @@ pillar_mount_height=0.5;
 rotator_mount_diameter=20;
 rotator_mount_thickness=1;
 rotator_mount_height=1;
-rotator_mount_inner=4
+rotator_mount_inner=4;
 
 center_x=plate_length/2;
 center_y=plate_width/2;
@@ -45,13 +45,15 @@ translate([center_x,center_y,plate_height])  cylinder(d=rotator_mount_inner, h=r
 //rotator outer mount
 difference() {
     union() {
-        translate([8,15,plate_height]) cube([10,10,rotator_mount_height]);
-        translate([26,5,plate_height]) cube([10,10,rotator_mount_height]);
+        translate([8,18,plate_height]) cube([10,7,rotator_mount_height]);
+        translate([8,5,plate_height]) cube([10,7,rotator_mount_height]);
+        translate([26,18,plate_height]) cube([10,6,rotator_mount_height]);
+        translate([26,5,plate_height]) cube([10,6,rotator_mount_height]);
     }
     translate([center_x,center_y,plate_height-1]) cylinder(d=rotator_mount_diameter, h=rotator_mount_height+2);
     translate([center_x,center_y,plate_height-1]) difference() {
         cylinder(d=100, h=rotator_mount_height+2);
-        cylinder(d=rotator_mount_diameter+3, h=rotator_mount_height+2);
+        cylinder(d=rotator_mount_diameter+2, h=rotator_mount_height+2);
     }
 }
 

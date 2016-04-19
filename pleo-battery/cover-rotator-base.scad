@@ -6,14 +6,14 @@ plate_length=44;
 plate_width=29.3;
 wall_thickness=5;
 
-rotator_diameter=20;
+rotator_diameter=25;
 rotator_wall=2;
 rotator_height=3;
-rotator_mount_inner=4;
+rotator_mount_inner=5;
 rotator_mount_thickness=1;
 
-wing_length=5;
-wing_width=3;
+wing_length=7;
+wing_width=5;
 
 diff=0.1;
 

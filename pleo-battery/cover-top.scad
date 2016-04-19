@@ -6,7 +6,7 @@ plate_length=44;
 plate_width=29.3;
 wall_thickness=5;
 
-rotator_mount_diameter=20;
+rotator_mount_diameter=26;
 
 center_x=plate_length/2-corner_radius;
 center_y=plate_width/2-corner_radius;
