@@ -1,7 +1,7 @@
 $fn=64;
 corner_radius=5;
-height=3;
-plate_height=1;
+height=5;
+plate_height=2;
 plate_length=44;
 plate_width=29.3;
 wall_thickness=5;
@@ -11,10 +11,10 @@ pillar_hole_radius=1.5;
 pillar_mount_radius=2.5;
 pillar_mount_height=0.5;
 
-rotator_mount_diameter=20;
+rotator_mount_diameter=19.8;
 rotator_mount_thickness=1;
-rotator_mount_height=1;
-rotator_mount_inner=4;
+rotator_mount_height=1.5;
+rotator_mount_inner=3.9;
 
 center_x=plate_length/2;
 center_y=plate_width/2;

@@ -1,18 +1,12 @@
 $fn=64;
-corner_radius=5;
-height=3;
-plate_height=1;
-plate_length=44;
-plate_width=29.3;
-wall_thickness=5;
 
 rotator_diameter=25;
 rotator_wall=2;
-rotator_height=3;
+rotator_height=2;
 rotator_mount_inner=5;
 rotator_mount_thickness=1;
 
-wing_length=7;
+wing_length=5;
 wing_width=5;
 
 diff=0.1;
