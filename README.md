@@ -31,6 +31,7 @@ Models for 3d printing
 - Prostetics
   - [e-NABLE](http://enablingthefuture.org)
   - [Open Bionics](https://openbionics.com/)
+    - [Brunel Hand 2.0.](https://m.all3dp.com/2/weekend-project-robotic-hand/)
   - [Limbitless Solutions](https://limbitless-solutions.org/)
   - [HACKberry](http://exiii-hackberry.com/)
   - for pets
