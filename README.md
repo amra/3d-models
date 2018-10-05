@@ -24,9 +24,12 @@ Models for 3d printing
   - https://www.kickstarter.com/projects/406097865/ar2-6-axis-robot-aluminum-parts-kits#
 - [OKAY 2 Synth](https://www.thingiverse.com/thing:2760653)
 - [3D PRINTED ARTICULATING LED LAMP](http://www.instructables.com/id/3D-Printed-Articulating-LED-Lamp/)
-- DIY Motorized Turntable for Photo & Video Version 2.0: https://all3dp.com/weekend-project-3d-printed-motorized-turntable-for-photo-video/
-  - https://www.thingiverse.com/thing:2899821
-  - https://learn.adafruit.com/motorized-turntable-circuitpython?embeds=allow
+- Photo
+  - DIY Motorized Turntable for Photo & Video Version 2.0: https://all3dp.com/weekend-project-3d-printed-motorized-turntable-for-photo-video/
+    - https://www.thingiverse.com/thing:2899821
+    - https://learn.adafruit.com/motorized-turntable-circuitpython?embeds=allow
+  - Instant-Printing-Point-and-Shoot camera based on Raspberry pi zero: https://www.raspberrypi.org/magpi/polapi-zero/
+    - https://github.com/pierre-muth/polapi-zero
 - [Build Your Own Inexpensive Powerbank with 3D Printing](https://all3dp.com/3d-printed-powerbank-how-to/)
 - Prostetics
   - [e-NABLE](http://enablingthefuture.org)
