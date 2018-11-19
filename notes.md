@@ -20,3 +20,18 @@ Japanese Wood Joint
 # Postprocessing
 
 Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postprocessing-of-3d-prints-step-by-step/
+
+# Filament Storage / Filament Dryer
+Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
+
+## DIY
+- How to keep your filament dry: Make a storage box: https://toms3d.org/2016/12/17/keep-filament-dry-make-storage-box/
+  - video: https://www.youtube.com/watch?v=OY5n9q-wS7k
+
+- DIY Heated DryBox for 3D Printing filament - under $20: https://richrap.blogspot.com/2018/02/diy-heated-drybox-for-3d-printing.html 
+  - video: https://www.youtube.com/watch?v=RvTTQqqWIWA
+  - all3dp: https://all3dp.com/weekend-project-a-diy-heated-drybox-for-3d-printing-filament-storage/
+
+## Pro
+- Filament dryer: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
+- PolyBox for €70: http://www.polymaker.com/shop/polybox/
