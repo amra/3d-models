@@ -10,6 +10,8 @@ You can use 3D pen for merging parts together or some other suitable tools like 
 ## Gluing 
 
 - Glueing possibilities: https://3dprinting.stackexchange.com/questions/6723/what-glues-for-pla/6725#6725
+- 3d printing nerd (superglue, epoxy, 3d-gloop for PLA): https://www.youtube.com/watch?v=qfBLdiyoRdI
+  - pla 3d gloop: https://www.3dgloop.com/shop/pla-gloop
 
 ### Joining using part design 
 Japanese Wood Joint
