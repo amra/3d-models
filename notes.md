@@ -24,6 +24,12 @@ Japanese Wood Joint
 
 Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postprocessing-of-3d-prints-step-by-step/
 
+## Smoothing 
+- PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
+- Acetone for ABS (nail polisher)
+- Polymaker Polysher: http://www.polymaker.com/shop/polysmoothpolysher/
+- XTC-3D: https://www.smooth-on.com/product-line/xtc-3d/
+
 # Filament Storage / Filament Dryer
 Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
 
