@@ -38,3 +38,7 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 ## Pro
 - Filament dryer: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
 - PolyBox for €70: http://www.polymaker.com/shop/polybox/
+
+# Printer tweaks
+- How to Turn Your Creality 3D Printer into an Engraving Tool: https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/
+  - video: https://www.youtube.com/watch?v=xoji-oqLSCY
