@@ -106,6 +106,7 @@ Models for 3d printing
 - Games
   - [angry birds](https://www.myminifactory.com/users/angrybirdsevolution)
 - [Cartoon Network](https://www.myminifactory.com/users/Cartoon%20Network)
+- [3D Printed Plane – 15 Great Curated Models to 3D Print](https://m.all3dp.com/2/3d-printed-plane-15-great-curated-models-to-3d-print/)
 
 ### Jewlery
 - [20 Best 3D Printed Rings and 3D Printed Bracelets](https://all3dp.com/1/3d-printed-jewlery-3d-printed-rings-3d-printed-bracelets/)
