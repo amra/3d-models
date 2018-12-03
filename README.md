@@ -109,13 +109,27 @@ Models for 3d printing
 
 ### Jewlery
 - [20 Best 3D Printed Rings and 3D Printed Bracelets](https://all3dp.com/1/3d-printed-jewlery-3d-printed-rings-3d-printed-bracelets/)
-- [Thingiverse - rings](https://www.thingiverse.com/explore/popular/fashion/rings)
-- inspiration
+- rings
+  - [Thingiverse - rings](https://www.thingiverse.com/explore/popular/fashion/rings)
+
+All3dp article about [jewelry](https://m.all3dp.com/2/3d-printed-jewelry-4-best-places-to-buy-it/) and about [rings](https://m.all3dp.com/2/3d-printed-ring-4-best-sources-to-find-the-perfect-model/).
+
+#### inspiration
+- [20 Outstanding Pieces of 3D Printed Jewelry](https://m.all3dp.com/3d-printed-jewelry/)
+
+- [shapeways](https://www.shapeways.com/marketplace/jewelry)
+- [i.materialise](https://i.materialise.com/en/shop/category/jewelry)
+- [etsy](https://www.etsy.com/ca/market/3d_printed_jewelry)
+- shops
+  - [n-e-r-v-o-u-s](https://n-e-r-v-o-u-s.com/shop/search_tags.php?search=3dprint)
+  - [olajewelry](http://www.olajewelry.com/shop/)
+  - [hijewellery](https://www.hijewellery.nz/shop/)
+  - [danielchristiantang](https://www.danielchristiantang.com/)
+- rings
   - [i.materialise - rings](https://i.materialise.com/en/shop/category/jewelry/rings)
   - [shapeways - rings](https://www.shapeways.com/marketplace/jewelry/rings/)
   - [etsy - 3d printed rings](https://www.etsy.com/ca/market/3d_printed_ring)
 
-Original article was released on [all3dp](https://m.all3dp.com/2/3d-printed-ring-4-best-sources-to-find-the-perfect-model/).
 
 ### Cookie cutter
 Software to generate cookie cutter models:
