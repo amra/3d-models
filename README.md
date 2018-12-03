@@ -94,7 +94,6 @@ Models for 3d printing
 - [40 Epic Star Wars 3D Models to 3D Print](https://all3dp.com/1/40-star-wars-3d-models-to-3d-print/)
 - [23 Exciting DIY Board Games (You Can Make With a 3D Printer)](https://all3dp.com/1/3d-printing-diy-board-games-make-3d-printer/)
 - [10 Cool Custom Keychains You Can 3D Print](https://all3dp.com/1/cool-custom-keychains-to-3d-print/)
-- [20 Best 3D Printed Rings and 3D Printed Bracelets](https://all3dp.com/1/3d-printed-jewlery-3d-printed-rings-3d-printed-bracelets/)
 - [Make a Carabiner Clip: 7 Useful Designs to 3D Print](https://all3dp.com/1/make-carabiner-clip-useful-3d-print/)
 - [30 Barbie Accessories You Can’t Buy in a Shop](https://m.all3dp.com/1/barbie-accessories-3d-print-diy/)
 - [Med3DP](https://www.med3dp.com/)  is an initiative to develop on-demand medical devices for humanitarian healthcare using 3D printing technology. 
@@ -107,6 +106,16 @@ Models for 3d printing
 - Games
   - [angry birds](https://www.myminifactory.com/users/angrybirdsevolution)
 - [Cartoon Network](https://www.myminifactory.com/users/Cartoon%20Network)
+
+### Jewlery
+- [20 Best 3D Printed Rings and 3D Printed Bracelets](https://all3dp.com/1/3d-printed-jewlery-3d-printed-rings-3d-printed-bracelets/)
+- [Thingiverse - rings](https://www.thingiverse.com/explore/popular/fashion/rings)
+- inspiration
+  - [i.materialise - rings](https://i.materialise.com/en/shop/category/jewelry/rings)
+  - [shapeways - rings](https://www.shapeways.com/marketplace/jewelry/rings/)
+  - [etsy - 3d printed rings](https://www.etsy.com/ca/market/3d_printed_ring)
+
+Original article was released on [all3dp](https://m.all3dp.com/2/3d-printed-ring-4-best-sources-to-find-the-perfect-model/).
 
 ### Cookie cutter
 Software to generate cookie cutter models:
