@@ -53,3 +53,6 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 # Printer tweaks
 - How to Turn Your Creality 3D Printer into an Engraving Tool: https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/
   - video: https://www.youtube.com/watch?v=xoji-oqLSCY
+
+# Software
+- [STL File Converter – 12 Best Tools to Convert STL Files](https://m.all3dp.com/2/stl-file-converter-12-best-tools-to-convert-stl-files/)
