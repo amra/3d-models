@@ -64,6 +64,9 @@ Models for 3d printing
   - [Turboprop Engine](https://www.thingiverse.com/thing:3014536)
   - [Working Gear Driven 4WD Toyota Transfer Case Model](https://www.thingiverse.com/thing:824415) + [Toyota 4 Cylinder Engine 22RE](https://www.thingiverse.com/thing:644933) + [transmission](https://www.thingiverse.com/thing:713815)
 - [3D Printed Box – 10 Great Curated Models to 3D Print](https://all3dp.com/2/3d-printed-box-10-best-curated-models-to-3d-print/)
+- Tripod
+  - [Phone Tripod Mount (Universal)](https://www.thingiverse.com/thing:2329858)
+  - [thingiverse - gorillapod](https://www.thingiverse.com/tag:gorillapod)
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
