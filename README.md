@@ -3,9 +3,10 @@ Models for 3d printing
 
 
 # Models
-
+[Prusa: How to print maps, terrains and landscaped on a 3D printer](https://www.prusaprinters.org/how-to-print-maps-terrains-and-landscapes-on-a-3d-printer/)
 
 ## Model source
+- [The best sites to download STL files](https://www.aniwaa.com/best-sites-download-free-stl-files-3d-models-and-3d-printable-files-3d-printing/)
 - [The best sites to download STL files for 3D printing and 3D printables files in 2016](http://www.aniwaa.com/blog/the-best-sites-to-download-stl-files-for-3d-printing-and-3d-printables-files-in-2016)
 
 ## Projects
