@@ -68,6 +68,8 @@ Models for 3d printing
 - Tripod
   - [Phone Tripod Mount (Universal)](https://www.thingiverse.com/thing:2329858)
   - [thingiverse - gorillapod](https://www.thingiverse.com/tag:gorillapod)
+- Wind Turbine
+  - [Wind Turbine 12V](https://www.thingiverse.com/thing:3138588) + [hackaday](https://hackaday.com/2018/10/15/wind-turbine-pushes-limits-of-desktop-3d-printing/)
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
