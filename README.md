@@ -134,6 +134,8 @@ All3dp article about [jewelry](https://m.all3dp.com/2/3d-printed-jewelry-4-best-
   - [shapeways - rings](https://www.shapeways.com/marketplace/jewelry/rings/)
   - [etsy - 3d printed rings](https://www.etsy.com/ca/market/3d_printed_ring)
 
+### Halloween
+- [3D Print a Bloody or Stitched Neck for Your Halloween Costume](https://m.all3dp.com/3d-printed-bloody-stitched-neck-halloween-costume/)
 
 ### Cookie cutter
 Software to generate cookie cutter models:
