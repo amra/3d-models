@@ -50,9 +50,15 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 - Filament dryer: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
 - PolyBox for €70: http://www.polymaker.com/shop/polybox/
 
-# Printer tweaks
-- How to Turn Your Creality 3D Printer into an Engraving Tool: https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/
-  - video: https://www.youtube.com/watch?v=xoji-oqLSCY
-
 # Software
 - [STL File Converter – 12 Best Tools to Convert STL Files](https://m.all3dp.com/2/stl-file-converter-12-best-tools-to-convert-stl-files/)
+
+# Printer & tweaks
+## Tweaks
+- How to Turn Your Creality 3D Printer into an Engraving Tool: https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/
+  - video: https://www.youtube.com/watch?v=xoji-oqLSCY
+- [Cut Plywood with a 3D Printer](https://www.youtube.com/watch?v=Ot_ATLvjAzE)
+
+## Printers
+Ceramics:
+- CERAMBOT: [kickstarter](https://www.kickstarter.com/projects/210413417/cerambot-the-most-affordable-ceramic-3d-printer/description) + [all3dp](https://all3dp.com/4/cerambot-delta-style-ceramic-3d-printer-smashing-thrits-kickstarter-goal/)
