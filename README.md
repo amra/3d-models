@@ -70,6 +70,7 @@ Models for 3d printing
   - [thingiverse - gorillapod](https://www.thingiverse.com/tag:gorillapod)
 - Wind Turbine
   - [Wind Turbine 12V](https://www.thingiverse.com/thing:3138588) + [hackaday](https://hackaday.com/2018/10/15/wind-turbine-pushes-limits-of-desktop-3d-printing/)
+- [Hello Kitty Planter - now small and medium size!](https://www.thingiverse.com/thing:3128137)
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
